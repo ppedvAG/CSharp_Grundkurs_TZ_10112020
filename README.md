@@ -13,25 +13,25 @@ C# Grundlagenkurs in Teilzeit vom 10.11.2020 bis 19.11.2020 - Trainer: Benedikt 
 - [ ] C# [Link](https://docs.microsoft.com/de-de/dotnet/csharp/)
 - [ ] .NET 4.8 [Link](https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8)
 - [ ] Projekte und Projektmappen
-- [ ] HelloWorld.cs <!-- [Link](Uebungen/Modul001_01_HelloWorld/Program.cs) -->
-- [ ] DemoConsole.cs <!-- [Link](Uebungen/Modul001_02_DemoConsole/Program.cs) --> 
+- [ ] HelloWorld.cs [Link](Uebungen/Modul001_01_HelloWorld/Program.cs) 
+- [ ] DemoConsole.cs [Link](Uebungen/Modul001_02_DemoConsole/Program.cs)  
 - [ ] Startprojekt festlegen
 - [ ] Sprachgrundlagen
-- [ ] C# Cheatsheet <!-- [Link](CSHARP-CHEATSHEET.md) -->
+- [ ] C# Cheatsheet [Link](CSHARP-CHEATSHEET.md)
 
 
 ## M002 | DATENTYPEN, KONVERTIERUNGEN und OPERATOREN
-- [ ] Datentypen <!-- [Link](Uebungen/Modul002_01_Datentypen/Program.cs) -->
-- [ ] Parsing & Casting <!-- [Link](Uebungen/Modul002_02_ParsingCasting/Program.cs) -->
-- [ ] Operatoren <!-- [Link](Uebungen/Modul002_03_Operatoren/Program.cs) -->
-- [ ] Fragen <!-- [Link](Uebungen/Modul002_Fragen/Program.cs) -->
+- [ ] Datentypen [Link](Uebungen/Modul002_01_Datentypen/Program.cs)
+- [ ] Parsing & Casting  [Link](Uebungen/Modul002_02_ParsingCasting/Program.cs)
+- [ ] Operatoren [Link](Uebungen/Modul002_03_Operatoren/Program.cs)
+- [ ] Fragen [Link](Uebungen/Modul002_Fragen/Program.cs)
       
 
 ## M003 | KONTROLLSTRUKTUREN und BOOLESCHE LOGIK
-- [ ] logische Operatoren  <!-- [Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs) -->
-- [ ] if-Abfrage <!-- [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) -->
-- [ ] switch-Anweisung <!-- [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) -->
-- [ ] Fragen <!-- [Link](Uebungen/Modul003_Fragen/Program.cs) -->
+- [ ] logische Operatoren  [Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs)
+- [ ] if-Abfrage [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)
+- [ ] switch-Anweisung [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)
+- [ ] Fragen [Link](Uebungen/Modul003_Fragen/Program.cs)
 
 ## M004 | ARRAYS, SCHLEIFEN und ENUMS
 - [ ] Arrays <!-- [Link](Uebungen/Modul004_01_Arrays/Program.cs) -->
