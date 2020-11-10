@@ -17,7 +17,7 @@ C# Grundlagenkurs in Teilzeit vom 10.11.2020 bis 19.11.2020 - Trainer: Benedikt 
 - [ ] DemoConsole.cs [Link](Uebungen/Modul001_02_DemoConsole/Program.cs)  
 - [ ] Startprojekt festlegen
 - [ ] Sprachgrundlagen
-- [ ] C# Cheatsheet [Link](CSHARP-CHEATSHEET.md)
+<!-- - [ ] C# Cheatsheet [Link](CSHARP-CHEATSHEET.md) -->
 
 
 ## M002 | DATENTYPEN, KONVERTIERUNGEN und OPERATOREN
