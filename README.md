@@ -3,35 +3,35 @@ C# Grundlagenkurs in Teilzeit vom 10.11.2020 bis 19.11.2020 - Trainer: Benedikt 
 
 ## M000 | VORSTELLUNG
 
-- [ ] Begrüßung
-- [ ] Visual Studio [Link](https://visualstudio.microsoft.com/de/)
-- [ ] Visual Studio Einrichtung
+- [x] Begrüßung
+- [x] Visual Studio [Link](https://visualstudio.microsoft.com/de/)
+- [x] Visual Studio Einrichtung
 <!-- - [ ] [vs-shortcuts](VS-SHORTCUTS.md) -->
 
 
 ## M001 | .NET GRUNDLAGEN
-- [ ] C# [Link](https://docs.microsoft.com/de-de/dotnet/csharp/)
-- [ ] .NET 4.8 [Link](https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8)
-- [ ] Projekte und Projektmappen
-- [ ] HelloWorld.cs [Link](Uebungen/Modul001_01_HelloWorld/Program.cs) 
-- [ ] DemoConsole.cs [Link](Uebungen/Modul001_02_DemoConsole/Program.cs)  
-- [ ] Startprojekt festlegen
-- [ ] Sprachgrundlagen
+- [x] C# [Link](https://docs.microsoft.com/de-de/dotnet/csharp/)
+- [x] .NET 4.8 [Link](https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8)
+- [x] Projekte und Projektmappen
+- [x] HelloWorld.cs [Link](Uebungen/Modul001_01_HelloWorld/Program.cs) 
+- [x] DemoConsole.cs [Link](Uebungen/Modul001_02_DemoConsole/Program.cs)  
+- [x] Startprojekt festlegen
+- [x] Sprachgrundlagen
 <!-- - [ ] C# Cheatsheet [Link](CSHARP-CHEATSHEET.md) -->
 
 
 ## M002 | DATENTYPEN, KONVERTIERUNGEN und OPERATOREN
-- [ ] Datentypen [Link](Uebungen/Modul002_01_Datentypen/Program.cs)
-- [ ] Parsing & Casting  [Link](Uebungen/Modul002_02_ParsingCasting/Program.cs)
-- [ ] Operatoren [Link](Uebungen/Modul002_03_Operatoren/Program.cs)
-- [ ] Fragen [Link](Uebungen/Modul002_Fragen/Program.cs)
+- [x] Datentypen [Link](Uebungen/Modul002_01_Datentypen/Program.cs)
+- [x] Parsing & Casting  [Link](Uebungen/Modul002_02_ParsingCasting/Program.cs)
+- [x] Operatoren [Link](Uebungen/Modul002_03_Operatoren/Program.cs)
+- [x] Fragen [Link](Uebungen/Modul002_Fragen/Program.cs)
       
 
 ## M003 | KONTROLLSTRUKTUREN und BOOLESCHE LOGIK
-- [ ] logische Operatoren  [Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs)
-- [ ] if-Abfrage [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)
-- [ ] switch-Anweisung [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)
-- [ ] Fragen [Link](Uebungen/Modul003_Fragen/Program.cs)
+- [x] logische Operatoren  [Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs)
+- [x] if-Abfrage [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)
+- [x] switch-Anweisung [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)
+- [x] Fragen [Link](Uebungen/Modul003_Fragen/Program.cs)
 
 ## M004 | ARRAYS, SCHLEIFEN und ENUMS
 - [ ] Arrays <!-- [Link](Uebungen/Modul004_01_Arrays/Program.cs) -->
