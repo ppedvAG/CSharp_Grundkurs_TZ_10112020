@@ -53,7 +53,7 @@ C# Grundlagenkurs in Teilzeit vom 10.11.2020 bis 19.11.2020 - Trainer: Benedikt 
 - [ ] Felder [Link](Uebungen/Modul006_02_FelderEigenschaften/Felder.cs)
 - [ ] Eigenschaften  [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs)
 - [ ] Kapselungen [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs)
-- [ ] partielle Klassen und Methoden [Link](Uebungen/Modul006_03_partielleKlassenMethoden/Program.cs)
+- [ ] partielle Klassen und Methoden [Link](Uebungen/Modul006_03_partielleKlassenMethoden)
 - [ ] Fragen [Link](Uebungen/Modul006_Fragen)
 
 ## M007 | OOP - OBJEKTE, METHODEN und PARAMETER
