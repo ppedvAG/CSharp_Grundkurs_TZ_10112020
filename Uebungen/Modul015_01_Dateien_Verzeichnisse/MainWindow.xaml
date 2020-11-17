@@ -1,0 +1,37 @@
+﻿<Window x:Class="Modul015_01_Dateien_Verzeichnisse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Modul015_01_Dateien_Verzeichnisse"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button Name="btnSpeichern" Content="Pfad auswählen"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Column="0" Click="btnSpeichern_Click"/>
+        <Button Name="btnErzeugen"  Content="Datei erstellen" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Column="2" Click="btnErzeugen_Click"/>
+        <Button Name="btnOeffnen"   Content="Pfad auswählen"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Column="4" Click="btnOeffnen_Click"/>
+        <Button Name="btnEinlesen"  Content="Datei einlesen"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Column="6" Click="btnEinlesen_Click"/>
+
+        <TextBox Name="tbPfadSpeichern" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3"/>
+        <TextBox Name="tbPfadOeffnen"   HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="3"/>
+        <TextBox Name="tbInhalt"        HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="7"/>
+
+
+    </Grid>
+</Window>
