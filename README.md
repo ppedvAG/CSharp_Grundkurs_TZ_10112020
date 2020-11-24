@@ -6,7 +6,7 @@ C# Grundlagenkurs in Teilzeit vom 10.11.2020 bis 19.11.2020 - Trainer: Benedikt 
 - [x] Begrüßung
 - [x] Visual Studio [Link](https://visualstudio.microsoft.com/de/)
 - [x] Visual Studio Einrichtung
-<!-- - [ ] [vs-shortcuts](VS-SHORTCUTS.md) -->
+- [X] [vs-shortcuts](VS-SHORTCUTS.md)
 
 
 ## M001 | .NET GRUNDLAGEN
@@ -17,7 +17,7 @@ C# Grundlagenkurs in Teilzeit vom 10.11.2020 bis 19.11.2020 - Trainer: Benedikt 
 - [x] DemoConsole.cs [Link](Uebungen/Modul001_02_DemoConsole/Program.cs)  
 - [x] Startprojekt festlegen
 - [x] Sprachgrundlagen
-<!-- - [ ] C# Cheatsheet [Link](CSHARP-CHEATSHEET.md) -->
+- [X] C# Cheatsheet [Link](CSHARP-CHEATSHEET.md)
 
 
 ## M002 | DATENTYPEN, KONVERTIERUNGEN und OPERATOREN
@@ -126,8 +126,9 @@ C# Grundlagenkurs in Teilzeit vom 10.11.2020 bis 19.11.2020 - Trainer: Benedikt 
 - [x] Fragen [Link](Uebungen/Modul015_Fragen) 
 
 
-## M016 | WINFORM oder WPF GUI (optional)
-- [ ] eigene Anwendung programmieren <!-- [Link](Uebungen/Modul016_Abschluss) -->
+## M016 | ASP.NET Core API (optional)
+- [X] ASP.NET Core API [Link](Uebungen/Modul016_API)
+- [X] Zugriff auf API [Link](Uebungen/Modul016_API_Console)
 
 ## M017 | ZUSÄTZLICHE THEMEN (optional)
 - [ ] Klassendiagramme
